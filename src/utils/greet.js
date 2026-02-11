@@ -4,9 +4,9 @@
  * @returns {string} The greeting
  */
 export function greet(name) {
-  return `Hello, ${name}!`;
+  return `Hey there, ${name}! Welcome back.`;
 }
 
 export function farewell(name) {
-  return `Goodbye, ${name}!`;
+  return `Later, ${name}!`;
 }
