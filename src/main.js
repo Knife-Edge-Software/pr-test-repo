@@ -1,5 +1,5 @@
 import { greet } from './utils/greet.js';
-import { formatDate } from './utils/date.js';
+import { formatDate } from './utils/date-utils.js';
 import { Button } from './components/Button.js';
 
 function main() {
